@@ -1,10 +1,10 @@
-# Spotify Music Genre Prediction
+# Spotify Music Hit Prediction
 
 This repository contains a machine learning project that predicts music genres from Spotify data using various machine learning models including Support Vector Machines (SVM), Neural Networks (NN), K-Nearest Neighbors (KNN), and Decision Trees. The project utilizes Python and scikit-learn for model implementation and includes visualization of results and correlation matrices.
 
 ## Overview
 
-The Spotify Music Genre Prediction project aims to classify music tracks into different genres based on their audio features. We use multiple machine learning models to perform the classification and compare their performance. Additionally, we visualize the results and the correlation between different features.
+The Spotify Music Hit Prediction project aims to classify music tracks into different hits or non-hits based on their audio features. We use multiple machine learning models to perform the classification and compare their performance. Additionally, we visualize the results and the correlation between different features.
 
 ## Features
 
